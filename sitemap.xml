@@ -4,6 +4,46 @@
     
     <url>
     
+      <loc>/project/superconductoranalysis/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/colors/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/lawoflargenumberssimulator/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/playerdatascraper/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/prettypastelbot/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
     
@@ -35,7 +75,17 @@
     
     <url>
     
+      <loc>/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -44,6 +94,15 @@
     <url>
     
       <loc>/post/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -73,6 +132,7 @@
     <url>
     
       <loc>/tags/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -81,6 +141,15 @@
     <url>
     
       <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/p/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

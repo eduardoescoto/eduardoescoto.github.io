@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Eduardo</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Eduardo</description>
+    <title>p on Eduardo</title>
+    <link>/tags/p/</link>
+    <description>Recent content in p on Eduardo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/p/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>⚡️ Superconductor Regression Analysis ⚡️</title>
+      <link>/project/superconductoranalysis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/project/superconductoranalysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>p</title>
-      <link>/tags/p/</link>
+      <title>🎨 Colors 🎨</title>
+      <link>/project/colors/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/tags/p/</guid>
+      <guid>/project/colors/</guid>
       <description></description>
     </item>
     
