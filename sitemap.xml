@@ -44,6 +44,14 @@
     
     <url>
     
+      <loc>/project/stochasticsystems/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/regressionanalysis/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
@@ -53,6 +61,15 @@
     <url>
     
       <loc>/author/admin/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/all/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -83,6 +100,15 @@
     
     <url>
     
+      <loc>/tags/data-mining/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -101,7 +127,25 @@
     
     <url>
     
+      <loc>/tags/javascript/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/probability/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -132,7 +176,52 @@
     
     <url>
     
+      <loc>/tags/python/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/r/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/react/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/regression-analysis/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/statistics/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -156,7 +245,7 @@
     
     <url>
     
-      <loc>/tags/p/</loc>
+      <loc>/tags/not-finished/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>

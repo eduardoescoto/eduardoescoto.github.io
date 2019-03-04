@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>not finished on Eduardo Escoto</title>
+    <link>/tags/not-finished/</link>
+    <description>Recent content in not finished on Eduardo Escoto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/not-finished/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>⚡️ Superconductor Analysis ⚡️</title>
+      <link>/project/superconductoranalysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/superconductoranalysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

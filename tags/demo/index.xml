@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>🎨 Colors 🎨</title>
+      <link>/project/colors/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/colors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>🎲 LoLNS Simulator 🎲</title>
       <link>/project/lawoflargenumberssimulator/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
@@ -35,6 +44,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/project/prettypastelbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>📈 Stochastic Processes Notebooks 📈</title>
+      <link>/project/stochasticsystems/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/stochasticsystems/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All on Eduardo Escoto</title>
+    <link>/tags/all/</link>
+    <description>Recent content in All on Eduardo Escoto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>🎨 Colors 🎨</title>
+      <link>/project/colors/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/colors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🎲 LoLNS Simulator 🎲</title>
+      <link>/project/lawoflargenumberssimulator/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/lawoflargenumberssimulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>👾 LOL E-sports Data Scraper 👾</title>
+      <link>/project/playerdatascraper/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/playerdatascraper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>💖 PrettyPastelBot 💖</title>
+      <link>/project/prettypastelbot/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/prettypastelbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>📈 Stochastic Processes Notebooks 📈</title>
+      <link>/project/stochasticsystems/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/stochasticsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>📉 Regression Analyses 📉</title>
+      <link>/project/regressionanalysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/regressionanalysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
