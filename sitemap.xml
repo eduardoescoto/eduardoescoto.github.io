@@ -28,6 +28,14 @@
     
     <url>
     
+      <loc>/project/resume_coverletter/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/playerdatascraper/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
@@ -128,6 +136,15 @@
     <url>
     
       <loc>/tags/javascript/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/latex/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
