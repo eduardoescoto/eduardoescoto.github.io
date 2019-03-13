@@ -13,11 +13,12 @@
     
     <item>
       <title>👾 LOL E-sports Data Scraper 👾</title>
-      <link>/project/playerdatascraper/</link>
+      <link>/project/player-data-scraper/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/project/playerdatascraper/</guid>
-      <description></description>
+      <guid>/project/player-data-scraper/</guid>
+      <description>This project scrapes the hidden E-sports API that Riot uses internally for their player statistics in their League of Legends Championship series. This is written in Python and runs with a Shell script for housekeeping. It takes all of the interesting data and outputs it into neat and tidy JSON files that contain the data by event, and by player!
+Code available here!</description>
     </item>
     
     <item>

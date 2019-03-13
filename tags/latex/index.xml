@@ -13,11 +13,15 @@
     
     <item>
       <title>👔 Resume and Cover Letter 👔</title>
-      <link>/project/resume_coverletter/</link>
+      <link>/project/resume-and-coverletter/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/project/resume_coverletter/</guid>
-      <description></description>
+      <guid>/project/resume-and-coverletter/</guid>
+      <description>This project contains my resume and cover letter built in LaTeX!
+You can find them rendered as PDF&amp;rsquo;s below:
+ Resume
+ Cover Letter
+  Code available on GitHub here!</description>
     </item>
     
   </channel>

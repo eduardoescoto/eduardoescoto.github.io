@@ -26,7 +26,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/project/colors/</guid>
-      <description></description>
+      <description>This is a super good page hahaha If you wanna see this project in action peep this</description>
     </item>
     
     <item>
@@ -40,20 +40,25 @@
     
     <item>
       <title>👔 Resume and Cover Letter 👔</title>
-      <link>/project/resume_coverletter/</link>
+      <link>/project/resume-and-coverletter/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/project/resume_coverletter/</guid>
-      <description></description>
+      <guid>/project/resume-and-coverletter/</guid>
+      <description>This project contains my resume and cover letter built in LaTeX!
+You can find them rendered as PDF&amp;rsquo;s below:
+ Resume
+ Cover Letter
+  Code available on GitHub here!</description>
     </item>
     
     <item>
       <title>👾 LOL E-sports Data Scraper 👾</title>
-      <link>/project/playerdatascraper/</link>
+      <link>/project/player-data-scraper/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/project/playerdatascraper/</guid>
-      <description></description>
+      <guid>/project/player-data-scraper/</guid>
+      <description>This project scrapes the hidden E-sports API that Riot uses internally for their player statistics in their League of Legends Championship series. This is written in Python and runs with a Shell script for housekeeping. It takes all of the interesting data and outputs it into neat and tidy JSON files that contain the data by event, and by player!
+Code available here!</description>
     </item>
     
     <item>
