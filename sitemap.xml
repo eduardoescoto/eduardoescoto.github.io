@@ -4,14 +4,6 @@
     
     <url>
     
-      <loc>/project/superconductoranalysis/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/colors/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
@@ -255,15 +247,6 @@
     <url>
     
       <loc>/authors/admin/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/not-finished/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

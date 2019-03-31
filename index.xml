@@ -10,15 +10,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>⚡️ Superconductor Analysis ⚡️</title>
-      <link>/project/superconductoranalysis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/project/superconductoranalysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>🎨 Colors 🎨</title>
       <link>/project/colors/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
